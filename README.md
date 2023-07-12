@@ -36,4 +36,4 @@ Dashboard Link - https://lookerstudio.google.com/s/gBX9FxhP568
 <img src="data_model.jpeg">
 
 
-<a href="https://github.com/imverma/Uber-DataAnalytics/blob/main/Uber-Dashboard.pdf" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
+<a href="https://github.com/imverma/Uber-DataAnalytics/blob/main/Uber-Dashboard.pdf" class="image fit" ></a>
