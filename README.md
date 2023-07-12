@@ -34,3 +34,6 @@ More info about dataset can be found here:
 Dashboard Link - https://lookerstudio.google.com/s/gBX9FxhP568
 ## Data Model
 <img src="data_model.jpeg">
+
+
+<a href="https://github.com/imverma/Uber-DataAnalytics/blob/main/Uber-Dashboard.pdf" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
